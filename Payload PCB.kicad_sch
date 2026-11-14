@@ -6,52 +6,6 @@
 	(paper "A4")
 	(lib_symbols)
 	(sheet
-		(at 59.69 76.2)
-		(size 16.51 45.72)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0)
-		)
-		(uuid "4e908f39-079a-46c4-bca6-27d5f025c7d9")
-		(property "Sheetname" "TestSheet"
-			(at 59.69 75.4884 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "untitled.kicad_sch"
-			(at 59.69 122.5046 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "Payload PCB"
-				(path "/42d6f02c-e668-45b1-94e1-fb1a90dfc45d"
-					(page "3")
-				)
-			)
-		)
-	)
-	(sheet
 		(at 93.98 67.31)
 		(size 111.76 68.58)
 		(exclude_from_sim no)

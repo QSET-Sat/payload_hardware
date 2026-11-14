@@ -441,10 +441,6 @@
     [
       "60bf14e3-cdbe-4abb-a1f9-0f7f0aed664c",
       "STM32L4"
-    ],
-    [
-      "4e908f39-079a-46c4-bca6-27d5f025c7d9",
-      "TestSheet"
     ]
   ],
   "text_variables": {},
