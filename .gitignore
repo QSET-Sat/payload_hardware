@@ -1,0 +1,18 @@
+# KiCad backups and lock files
+*-backups/
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.kicad_sch-bak
+~*.lck
+*.lck
+.history/
+
+# KiCad cache and temporary files
+fp-info-cache
+*-cache.lib
+*-rescue.lib
+*.000
+*.erc
+*.net
+*.rpt
