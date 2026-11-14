@@ -3552,6 +3552,88 @@
 	)
 	(symbol
 		(lib_id "Device:R")
+		(at 90.17 151.13 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "36551ebc-8b07-4a56-bc51-3b2f4a03ed57")
+		(property "Reference" "R3"
+			(at 92.71 149.8599 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "R"
+			(at 92.71 152.3999 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 88.392 151.13 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 90.17 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 90.17 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "5f091f07-51c2-49a4-b95c-d20140b5e94d")
+		)
+		(pin "2"
+			(uuid "acb403bb-6b6f-4aa6-88c7-fb555f74fed3")
+		)
+		(instances
+			(project "Payload PCB"
+				(path "/42d6f02c-e668-45b1-94e1-fb1a90dfc45d/60bf14e3-cdbe-4abb-a1f9-0f7f0aed664c"
+					(reference "R3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
 		(at 398.78 93.98 0)
 		(unit 1)
 		(body_style 1)
