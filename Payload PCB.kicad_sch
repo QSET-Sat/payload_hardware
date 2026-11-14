@@ -1,0 +1,100 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "42d6f02c-e668-45b1-94e1-fb1a90dfc45d")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 93.98 67.31)
+		(size 111.76 68.58)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "60bf14e3-cdbe-4abb-a1f9-0f7f0aed664c")
+		(property "Sheetname" "STM32L4"
+			(at 93.98 66.5984 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "STM32L4.kicad_sch"
+			(at 93.98 136.4746 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "CANL2" input
+			(at 205.74 99.06 0)
+			(uuid "123f0e83-0c9e-40ea-9541-2abac568d298")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CAN2H" input
+			(at 205.74 92.71 0)
+			(uuid "3499f193-fc6f-4c1f-a82c-bddd77acd73b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CAN1H" input
+			(at 205.74 87.63 0)
+			(uuid "8464180c-024e-4fbf-a797-c7e8777ea5d9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CAN1L" input
+			(at 205.74 83.82 0)
+			(uuid "5b880679-03ba-42e3-93ca-84d266204a75")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Payload PCB"
+				(path "/42d6f02c-e668-45b1-94e1-fb1a90dfc45d"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
