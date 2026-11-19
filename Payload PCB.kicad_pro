@@ -441,6 +441,26 @@
     [
       "60bf14e3-cdbe-4abb-a1f9-0f7f0aed664c",
       "STM32L4"
+    ],
+    [
+      "d0f23070-f221-45d5-b96b-c183533048b8",
+      "Power Input"
+    ],
+    [
+      "2c1c78e9-98d5-4187-b177-812ead24af4d",
+      "Telemetry"
+    ],
+    [
+      "dbc785b2-2409-46b5-80a5-0ee941f85db5",
+      "Cathode Flyback"
+    ],
+    [
+      "621db10a-aedd-4fe1-aebe-28041950ae79",
+      "Tether Flyback"
+    ],
+    [
+      "c97a257e-5034-4a6a-9278-8f218d6bf5eb",
+      "PC104 and Connectors"
     ]
   ],
   "text_variables": {},
